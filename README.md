@@ -7,3 +7,5 @@ I mainly work with **[React](https://github.com/facebook/react)** and **[Svelte]
 Effectively coding with JavaScript, Go, PHP, Java.
 
 Currently getting in touch with Python, C#, Flutter and Dart.
+
+![](https://komarev.com/ghpvc/?username=chrispump&color=lightgrey)
