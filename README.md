@@ -6,4 +6,6 @@ I mainly work with **[React](https://github.com/facebook/react)** and **[Svelte]
 
 Coding with JavaScript/TypeScript, Go, PHP, Java, Python, C# and Dart.
 
+Can't do, won't do.
+
 ![](https://komarev.com/ghpvc/?username=chrispump&color=lightgrey)
