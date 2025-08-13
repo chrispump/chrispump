@@ -1,5 +1,5 @@
 ## Hello 👋🤓
 
-I'm **Chris**. Fullstack developer and student of applied computer science from northern Germany.
-
-Coding with JavaScript/TypeScript, Go, Python, PHP, Java and C#.
+I’m Chris – full-stack developer & applied computer science student from northern Germany.
+💻 Coding in Go, JavaScript/TypeScript, Kotlin, Java, C#, Python, PHP.
+🚀 Passionate about software architecture & scalable, fault-tolerant distributed systems.
